@@ -1,4 +1,9 @@
-### Hi there 👋
+### Summary
+* Engineering leader with 15+ years of experience in the Software Performance, Observability, Quality & Security space
+* Lead inventor of patented and published tech in AI/ML & developers tools
+* VC backed startup founder with M&A experience
+
+<a href="https://linkedin.com/in/shauvik" target="_blank">LinkedIn</a> | <a href="https://shauvik.com" target="_blank">Website</a> | <a href="https://bit.ly/shauvik" target="_blank">Resume</a>
 
 <!--
 **shauvik/shauvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
