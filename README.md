@@ -1,5 +1,5 @@
 ### Summary
-* Engineering leader with 15+ years of experience in the Software Performance, Observability, Quality & Security space
+* Engineering leader with 17+ years of experience in the Software Performance, Observability, Quality & Security space
 * Lead inventor of patented and published tech in AI/ML & developers tools
 * VC backed startup founder with M&A experience
 
